@@ -1,4 +1,4 @@
-﻿# SQL-exercise
+# SQL-exercise
 Schemas, Questions &amp; Solutions for SQL Exercising
 
 ## Introduction
@@ -27,7 +27,3 @@ SQL-exercise
 
 ## License
 Please note this repostory is under the Creative Commons Attribution-ShareAlike License[https://creativecommons.org/licenses/by-sa/3.0/].
-
-
-
-changed
